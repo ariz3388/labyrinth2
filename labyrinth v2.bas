@@ -1,9 +1,3 @@
-!--------------------------------------------------
-!- Saturday, July 13, 2024 12:50:10 AM
-!- Import of : 
-!- c:\commander16\r47\projects\labyrinth v2.prg
-!- Commodore 64
-!--------------------------------------------------
 1 REM LABYRINTH BY COMMODORE, UPDATED FOR X16 BY JUSTIN BALDOCK
 5 REM HTTPS://GITHUB.COM/JUSTINBALDOCK/X16-LABYRINTH
 10 GOSUB 10000: REM INIT THE GAME AND SETUP VARIABLES AND CONSTANTS
